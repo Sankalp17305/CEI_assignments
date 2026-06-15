@@ -104,9 +104,9 @@ jupyter notebook
 
 ## 👤 Author
 
-**Sam**  
-B.Tech — Data Science  
-Poornima Institute  
+**Sankalp Tamboli**  
+B.Tech — Computer Science & Engineering (IoT) 
+Poornima Institute of Engineering & Technology
 
 ---
 
