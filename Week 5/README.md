@@ -23,7 +23,7 @@ This project trains three sequence models on a text corpus and compares:
 
 ```
 📦 Text-Generation-RNN-LSTM-GRU
- ┣ 📓 Text_Generation_RNN_LSTM_GRU_Learning_Project.ipynb
+ ┣ 📓 Week5_Sankalp_Tamboli.ipynb
  ┗ 📄 README.md
 ```
 
